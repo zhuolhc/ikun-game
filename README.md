@@ -1,2 +1,2 @@
 # ikun-game
-```a game for ikun
+a game for ikun
