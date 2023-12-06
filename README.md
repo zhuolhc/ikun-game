@@ -1,2 +1,2 @@
 # ikun-game
-一个ikun的游戏
+```a game for ikun
